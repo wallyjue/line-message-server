@@ -1,9 +1,6 @@
 .DS_Store
-line-message-server/clientapp/node_modules/
-line-message-server/clientapp/dist/
-line-message-server/obj/
-line-message-server/bin/
-.vs/
+node_modules
+/dist
 
 # local env files
 .env.local
@@ -21,4 +18,4 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
-*.sw*
+*.sw?
